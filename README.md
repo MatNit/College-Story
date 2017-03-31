@@ -11,5 +11,3 @@ This is a GitHub Project story about aliens who arrived on earth in order to org
 - [Chapter2](Chapter2.html)
 
 - [Chapter3](Chapter3.html)
-
-- [Chapter3.AlternativeEnding](Chapter3.AlternativeEnding.html) 
